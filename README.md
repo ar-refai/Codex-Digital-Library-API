@@ -4,14 +4,6 @@
 
 **A clean, layered digital library management system built with ASP.NET Core and Onion Architecture.**
 
-[![.NET](https://img.shields.io/badge/.NET-9-512BD4?logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
-[![C#](https://img.shields.io/badge/C%23-100%25-239120?logo=csharp&logoColor=white)](https://learn.microsoft.com/dotnet/csharp/)
-[![SQL Server](https://img.shields.io/badge/SQL%20Server-EF%20Core%209-CC2927?logo=microsoftsqlserver&logoColor=white)](https://www.microsoft.com/sql-server)
-[![Architecture](https://img.shields.io/badge/Architecture-Onion%20%2F%20Clean-2E8B57)]()
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](#license)
-
-</div>
-
 ---
 
 ## Overview
@@ -21,6 +13,15 @@
 The goal of this project is to demonstrate a production-style .NET backend: testable, maintainable, and organized around business capability rather than technical layers alone.
 
 ---
+
+[![.NET](https://img.shields.io/badge/.NET-9-512BD4?logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
+[![C#](https://img.shields.io/badge/C%23-100%25-239120?logo=csharp&logoColor=white)](https://learn.microsoft.com/dotnet/csharp/)
+[![SQL Server](https://img.shields.io/badge/SQL%20Server-EF%20Core%209-CC2927?logo=microsoftsqlserver&logoColor=white)](https://www.microsoft.com/sql-server)
+[![Architecture](https://img.shields.io/badge/Architecture-Onion%20%2F%20Clean-2E8B57)]()
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](#license)
+
+</div>
+
 
 ## 🧱 Architecture
 
